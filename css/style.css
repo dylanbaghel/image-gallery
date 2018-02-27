@@ -1,0 +1,31 @@
+/* .jumbotron {
+    background: url(https://png.pngtree.com/thumb_back/fh260/back_pic/03/62/30/9157aa94e693d90.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+} */
+
+.jumbotron {
+    background-color: #ecf0f1;
+}
+
+img {
+    max-width: 100%;
+}
+.img-thumbnail {
+    margin: 10px;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    color: #2c3e50;
+}
+#custom {
+    background: #2c3e50;
+}
+ #custom a {
+     color: white;
+ }
